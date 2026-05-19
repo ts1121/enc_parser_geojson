@@ -151,19 +151,6 @@ Main dependencies include:
 
 ---
 
-# Future Development
-
-Planned future capabilities include:
-
-- Semantic grounding of S-57 attributes
-- Ontology mapping
-- Spatio-semantic feature grouping
-- Graph-based ENC representations
-- Integration with LLM workflows
-- Validation and QA pipelines
-
----
-
 # License
 
 MIT License
